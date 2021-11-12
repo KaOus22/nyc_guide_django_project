@@ -1,35 +1,13 @@
-# New York City Guide - Django Project
+# NYC Guide
+*This app gives users a brief overview of the venues and activities NYC has to offer. On the landing page you will see a list of boroughs. When you click on each individual borough you will see a list of activities to choose from. You can click on each individual activity to see the venues listed for each activity. When you click on a venue you can see a description of that venue*
 
-## To start building the project:
+## How it's created
+*We used Python and Django to build this.* 
 
-### 1. Create a virtual environment
-
-At the root folder of the repository run:
-```
-python3 -m venv venv
-```
-Make sure to call your virtual environment "venv"
-
-### 2. Run virtual environment
-#### On Windows:
-Windows Powershell users:
-```
-venv\Scripts\activate.bat
-```
-Bash users:
-```
-source venv/Scripts/activate
-```
-#### On Unix or MacOS:
-```
-source venv/bin/activate
-```
-### 3. Install dependencies
-```
-pip install -r requirements.txt
-```
-### 4. Run Django
-```
-python manage.py runserver
-```
-And go to `http://localhost:8000`
+## How to use this app
+1. Download .zip file. 
+2. Open file in your Visual Studio Code.
+3. cd into your main directory (nyc-guide-main)
+4. In your terminal type the following command: python manage.py runserver
+5. Select the port that displays in your terminal to run it in your browser. 
+6. Enjoy!
