@@ -2,7 +2,7 @@
 <ul>
     {% for activity in activities %}
     <li>
-        <a href=“{% url ‘activity’ borough activity%}“>{{ activity|title}}</a>
+        <a href="{% url 'activity' borough activity %}">{{ activity|title}}</a>
     </li>
     {% endfor %}
 </ul>
