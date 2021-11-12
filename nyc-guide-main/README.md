@@ -1,4 +1,4 @@
-# NYC Guide
+# NYC Guide Created By: Daniel Jiannetto | Kayla Ousley
 *This app gives users a brief overview of the venues and activities NYC has to offer. On the landing page you will see a list of boroughs. When you click on each individual borough you will see a list of activities to choose from. You can click on each individual activity to see the venues listed for each activity. When you click on a venue you can see a description of that venue*
 
 ## How it's created
